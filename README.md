@@ -9,7 +9,7 @@
 
 This repository contains replication data and code for:
 
-Huh, Jason and Reif, Julian. "Reducing Bias in Preference Elicitation for Environmental Public Goods." *Australian Journal of Agricultural and Resource Economics*, forthcoming.
+Brent, D.A., angadharan, L., Leroux, A., and Raschky, P.A. (2021). "Reducing Bias in Preference Elicitation for Environmental Public Goods." *Australian Journal of Agricultural and Resource Economics*, forthcoming.
 
 The code and data was prepared by [Daniel A Brent](https://www.danielbrent.com/)  
 ```
@@ -21,6 +21,6 @@ ajaere_2021                           # Project folder
 
 ```
 
-+ [Brent_et_al_2021_PAPER][Brent_et_al_2021_PAPER.pdf] is the corresponding **working paper**.
++ [Brent_et_al_2021_PAPER](Brent_et_al_2021_PAPER.pdf) is the corresponding **working paper**.
 
 + [Brent_et_al_2021_Supplemenatary_Material](Brent_et_al_2021_Supplemenatary_Material.pdf) contains supplemenatry material including a description of the **choice set**, and the results of various **robustness tests**.
