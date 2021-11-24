@@ -1,8 +1,5 @@
 # Replication Package for Brent et al (2021) - Reducing Bias in Preference Elicitation for Environmental Public Goods
 
-
-[`Overview`](#overview) [`Examples`](#examples) [`Terms of use`](#terms-of-use) [`Update history`](#update-history)
-
 -----------
 
 ## Overview
